@@ -1,2 +1,2 @@
-words_list = [poulette, arosoire, cabanons, tableaux, chatons]
-chances_allowded = 8
+words_list = [poulette, arosoire, tableau, chaton, ampoules, terrasse, cigare]
+chances_allowed = 8
